@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html class="Unknown">
+<head lang="en">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="NOARCHIVE,NOFOLLOW" name="ROBOTS"/>
+<title>Finra BrokerCheck - TANGENT CAPITAL PARTNERS, LLC</title>
+<meta content="Get information about TANGENT CAPITAL PARTNERS, LLC on Finra BrokerCheck. View employment history, certifications, licenses and any violations for brokers and investment advisors." name="description"/>
+<meta content="IE=9; IE=8; IE=7;IE=edge;chrome=1" http-equiv="X-UA-Compatible"/>
+<link href="/Content/css?v=74fM73ExAmqgc22eRW0HKp5m4h61fsFgnKMfIEoGt8c1" rel="stylesheet"/>
+<link href="/Content/themes/base/css?v=NEMzU__37uYRL4aqdZRWFojcqJNzS2ev5-hm79ZNaqY1" rel="stylesheet"/>
+<script src="/bundles/jquery?v=UgyEMAYOuSB9Bb6HcOEVHpd6fIIp54yF086SRNVcdIY1"></script>
+<script src="/Scripts/jquery.browser.min.js"></script>
+<script src="/bundles/jqueryui?v=EHft7nwilnDMnejvwTyEKn_C5lwIsN1M3Xyb8c9OmSQ1"></script>
+<script src="/bundles/bootstrap?v=9DcdG-pTuRmuMfcIRUkrsV_0I8ijrYU8yWduYLp7xAI1"></script>
+<script src="/bundles/finra?v=gyZxrwBvmfiLBJfeIjdO7_Rv0u1xGVETFEe-hsBM-iQ1"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+         <script src="/bundles/ie?v=munoNLiHIdhH1_j2dkGMg7iCxTSlXXMUgML9IupbLtI1"></script>
+
+    <![endif]-->
+<link href="/Content/themes/BrokerCheck_PF.css" media="print" rel="stylesheet" type="text/css"/>
+<!-- Click jacking  - Security Remediation
+         - First apply an ID to the style element itself
+         - And then delete that style by its ID immediately after in the script -->
+<style id="noClickJack">body {display: none !important;}</style>
+<script type="text/javascript">
+        if (self == top) {
+            var noClickJack = document.getElementById("noClickJack");
+            noClickJack.parentNode.removeChild(noClickJack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+<!-- Click jacking - End-->
+</head>
+<body>
+<div style="height:0">
+<!--Start of DoubleClick Floodlight Tag-->
+<script type="text/javascript">
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            document.write('<iframe src="http://4728019.fls.doubleclick.net/activityi;src=4728019;type=finra0;cat=firms0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+        </script>
+<noscript>
+<iframe frameborder="0" height="1" src="http://4728019.fls.doubleclick.net/activityi;src=4728019;type=finra0;cat=firms0;ord=1?" style="display:none" width="1"></iframe>
+</noscript>;
+
+         <!-- End of DoubleClick Floodlight Tag -->
+</div>
+<div id="FINRA_header">
+<div id="finralogo" style="display:none;">
+<a href="http://finra.org"><img alt="logo" src="/Content/Images/BrokerCheck/p075335.gif"/></a>
+</div>
+</div>
+<div class="content-area finrabrand_container">
+<div id="FINRA_responsive"></div>
+<div class="divider_sm"></div>
+<div class="PaddingLeft15">
+<div>
+</div>
+<div>
+</div>
+</div>
+<div>
+<div class="bcrow">
+<div class="jumbotron">
+<div class="searchresultsheaderrow">
+<div class="searchresultsheadercolleft">
+<a class="alink" href="/Search/Search">« Back to search results</a> </div>
+<div class="searchresultsheadercolright">
+<a href="http://brokercheck.finra.org"><img alt="FINRA BrokerCheck" class="searchresultsheaderimg" src="/Content/Images/BrokerCheck/BrokerCheck_logo-new.png"/></a>
+</div>
+</div>
+</div>
+</div>
+<div class="bcrow">
+<div>
+<div>
+<form action="/Search/GenericSearch" method="post"><input name="__RequestVerificationToken" type="hidden" value="Sr_WZr5OchA5vEu6gmlotBWgvHR9KFC9SIhzZuMRXTxeqRgMeI9eDbs0vuuA-gXAChv9axqeDAhnF0_Fh-um1yDULZ-SszJovjo80PaSrcU1"/><input data-val="true" data-val-number="The field StartRow must be a number." data-val-regex="Invalid Value" data-val-regex-pattern="\d{1,10}" data-val-required="The StartRow field is required." id="GenericSearch_StartRow" name="GenericSearch.StartRow" type="hidden" value="1"/><input data-val="true" data-val-number="The field PageSize must be a number." data-val-regex="Invalid Value" data-val-regex-pattern="\d{1,10}" data-val-required="The PageSize field is required." id="GenericSearch_PageSize" name="GenericSearch.PageSize" type="hidden" value="15"/><input id="GenericSearch_System" name="GenericSearch.System" type="hidden" value="BC"/> <div class="bcrow searchtoolbar">
+<div class="form-group">
+<div><div class="validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div></div>
+<div class="searchradioselect focus">
+<span class="btn-group" data-toggle="buttons">
+<span class="btn btn-activeblue active bccontrol">
+<input checked="True" data-val="true" data-val-required="The SearchType field is required." id="93cc8f8c-39f1-4efc-8af6-7a295307c513" name="GenericSearch.SearchType" type="radio" value="1"/><strong> Individual</strong>
+</span>
+<span class="btn btn-activeblue bccontrol">
+<input id="cb93020c-c9a6-4286-97e6-00560ac43d5f" name="GenericSearch.SearchType" type="radio" value="2"/><strong> Firm</strong>
+</span>
+</span>
+</div>
+<div class="searchinput" id="a003a57c-034e-42e8-842a-4dc133b26e8b">
+<input class="form-control" data-val="true" data-val-length="Individual Name or CRD# must be a string with a maximum length of 160." data-val-length-max="160" id="GenericSearch_IndividualSearchText" name="GenericSearch.IndividualSearchText" placeholder="Individual Name/CRD#" type="text" value=""/>
+</div>
+<div class="searchinputfirm" id="1ef3558c-09e1-43ed-afce-8ed41e39ad4c">
+<div class="input-group ">
+<div class="input-group-addon" style="background-color: inherit;border: inherit;color:white;font-weight: bold">
+                            at
+                        </div>
+<div>
+<input class="form-control bccontrol" data-val="true" data-val-length="Employing Firm Name or CRD# or DEC# must be a string with a maximum length of 160." data-val-length-max="160" id="GenericSearch_EmploymingFirmSearchText" name="GenericSearch.EmploymingFirmSearchText" placeholder="Firm" type="text" value=""/>
+</div>
+</div>
+</div>
+<div class="searchinputfirmtext" id="73266580-bb1c-4735-b81d-f1a29967bde4">
+<input class="form-control" data-val="true" data-val-length="Employing Firm Name or CRD# or DEC# must be a string with a maximum length of 160." data-val-length-max="160" id="GenericSearch_FirmSearchText" name="GenericSearch.FirmSearchText" placeholder="Firm Name or CRD/SEC#" type="text" value=""/>
+</div>
+<div class="searchddlzip">
+<select class="form-control" data-val="true" data-val-number="The field Within must be a number." id="e2d1ce8c-8a28-4bce-b388-9f16b59a78fd" name="GenericSearch.Within"><option value="5">Within 5 Miles of</option>
+<option value="15">Within 15 Miles of</option>
+<option value="25">Within 25 Miles of</option>
+</select>
+</div>
+<div class="searchinputgroup">
+<div class="input-group" style="width:100%">
+<input class="form-control bccontrol" id="9f8c26f4-1185-4e7e-8f1d-f09acf283530" name="GenericSearch.ZipCode" placeholder="Zip Code" type="text" value=""/>
+<div class="input-group-btn hidden-lg PaddingLeft5">
+<button class="btn btn-danger " type="submit"><span class="fasearch"></span></button>
+</div>
+<div class="input-group-btn hidden-xs hidden-sm hidden-md PaddingLeft15">
+<button class="btn btn-danger" type="submit"> <strong>Check </strong></button>
+</div>
+</div>
+</div>
+</div></div>
+</form> </div>
+<script>
+    
+   
+    $(document).ready(function () {
+        setupSearchPage($("#GenericSearch_IndividualSearchText"),
+            $("#a003a57c-034e-42e8-842a-4dc133b26e8b"),
+            $("#GenericSearch_EmploymingFirmSearchText"),
+            $("#1ef3558c-09e1-43ed-afce-8ed41e39ad4c"),
+            $("#cb93020c-c9a6-4286-97e6-00560ac43d5f"),
+            $("#93cc8f8c-39f1-4efc-8af6-7a295307c513"),
+            $("#d3273b59-987f-4ad1-bd3c-379e6b19c40d"),
+            $("#ceeb05f9-7c23-4c35-b0bd-f391bf34dd80"),
+            $("#GenericSearch_FirmSearchText"),
+            $("#73266580-bb1c-4735-b81d-f1a29967bde4"),
+            $("#9f8c26f4-1185-4e7e-8f1d-f09acf283530"),
+            $("#e2d1ce8c-8a28-4bce-b388-9f16b59a78fd")
+        );       
+    });
+</script>
+</div>
+</div>
+<div class="bcrow" id="labelCell">
+<div id="contentTable">
+<div class="Padding15">
+<!-- Firm Header-->
+<div>
+<script language="Javascript" type="text/javascript">
+    function QuestionLink(PopupType, myObj) {
+        if (PopupType == 'IA')
+            showHide('MsgDiv', myObj, 'The information presented in BrokerCheck pertains only to the securities industry. For investment adviser information please visit the <a href=javaScript:; onclick=javascript:onIapdDetails(this) data-confirmurl=/Support/IapdConfirm data-url=http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx?CrdNumber=146999 >Investment Adviser Public Disclosure (IAPD)</a> website.', 'Link');
+        else
+            showHide('MsgDiv', myObj, 'This firm is no longer in business. The information presented in BrokerCheck pertains only to the securities industry. For investment adviser information please visit the <a href=javaScript:; onclick=javascript:onIapdDetails(this) data-confirmurl=/Support/IapdConfirm data-url=http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx?CrdNumber=146999 >Investment Adviser Public Disclosure (IAPD)</a> website.', 'Link');
+    }
+</script>
+<div class="SummarySectionColor bcrow">
+<div class="">
+<div class="">
+<span class="summarydisplayname">
+                TANGENT CAPITAL PARTNERS, LLC
+            </span>
+<span class="summarydisplaycrd text-nowrap">
+                (CRD# 146999 
+
+
+                 / SEC# 8-67885)
+            </span>
+</div>
+<div class="subsectiondivider hidden-print"></div>
+<div class="summaryBizcardtext hidden-print"><a href="/Report/View/146999/2" target="_blank">Detailed report (PDF)</a></div>
+<div class="sectiondivider"></div>
+<div class="bcrow left-border">
+<div class="summarybizcardsectionNoborder">
+<div class="bcrow">
+<div class="summarybizcardsectionimg"><img alt="Firm registration as a brokerage firm and/or investment advisor firm" class="homesectionimg imgsize2" src="/Content/Images/BrokerCheck/registered-01.png"/></div>
+<div class="summaryBizcardtext summarybizcardsectiondetail">
+<div>Brokerage Firm</div>
+</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+<div class="summarybizcardsection">
+<div class="bcrow">
+<div class="summarybizcardsectionimg"><img alt="Disclosures include customer complaints, regulatory actions and criminal convictions" class="homesectionimg imgsize2" src="/Content/Images/BrokerCheck/disclosure-01.png"/></div>
+<div class="summaryBizcardtext summarybizcardsectiondetail">
+<div>
+                                        0 Disclosure(s) <span class="infocircle text-primary paddingleft5" data-content="Brokerage firms are required to disclose certain criminal matters, regulatory actions, civil judicial proceedings and financial matters in which the firm or one of its control affiliates has been involved." data-toggle="popover"></span>
+</div>
+</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+<div class="summarybizcardsection">
+<div class="bcrow">
+<div class="summarybizcardsectionimg"><img alt="Registration history for the brokerage firm, including owners and officers and legal classification" class="homesectionimg imgsize2" src="/Content/Images/BrokerCheck/briefcase-01.png"/></div>
+<div class="summaryBizcardtext summarybizcardsectiondetail">
+<div>
+This firm was formed in Delaware on 11/07/2007.                                    </div>
+<div>
+
+This firm is classified as a Limited Liability Company.                                    </div>
+</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+<div class="summarybizcardsection">
+<div class="bcrow">
+<div class="summarybizcardsectionimg"><img alt="Qualifications including state licenses for the brokerage firm and what kinds of business it conducts" class="homesectionimg imgsize2" src="/Content/Images/BrokerCheck/certified-01.png"/></div>
+<div class="summaryBizcardtext summarybizcardsectiondetail">
+<table style="width: 100%; padding: 0px; border-spacing: 0px;">
+<tr>
+<td class="SpacerCell" colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">
+<table style="width: 100%; padding: 0px; border-spacing: 0px;">
+<tr>
+<td>
+<b>This firm is registered with: </b>
+<br/>
+<table style="padding: 0px; border-spacing: 0px;width:100%">
+<tr>
+<td colspan="2">
+
+                                                
+                                                the SEC
+
+                                            </td>
+</tr>
+<tr>
+<td colspan="2">
+1 Self-Regulatory Org
+
+                                            </td>
+</tr>
+<tr>
+<td colspan="2">
+14 U.S. states and territories
+                                                </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+</div>
+<div class="sectiondivider"></div>
+<div>
+</div>
+<div class="bcrow SummarySectionColor left-border">
+<div class="summarysectionleftpanel">
+<div class="imgleft-xs"><img alt="Firm registration as a brokerage firm and/or investment advisor firm" class="homesectionimg imgsize1" src="/Content/Images/BrokerCheck/registered-01.png"/></div>
+</div>
+<div class="summarysectionrightpanel">
+<div class="summaryheadertext">Brokerage Firm</div>
+<div>A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities—stocks, bonds, mutual funds, and certain other investment products—on behalf of its customers (as broker), for its own account (as dealer), or both.<br/>
+Individuals who work for broker-dealers—the sales personnel whom most people call brokers—are technically known as registered representatives.</div>
+<div class="subsectiondivider"></div>
+</div>
+</div>
+<div class="sectiondivider"></div>
+<!-- Disclosure Events -->
+<div class="bcrow SummarySectionColor left-border">
+<div class="summarysectionleftpanel">
+<div class="imgleft-xs"><img alt="Disclosures include customer complaints, regulatory actions and criminal convictions" class="homesectionimg imgsize1" src="/Content/Images/BrokerCheck/disclosure-01.png"/></div>
+</div>
+<div class="summarysectionrightpanel">
+<div id="dvDiscContent">
+<div>
+<b>This firm has no disclosure events.</b>
+</div>
+<div class="row">
+<div class="firmdisctablerow">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sectiondivider"></div>
+<div class="bcrow SummarySectionColor left-border">
+<div class="summarysectionleftpanel">
+<div class="imgleft-xs"><img alt="Registration history for the brokerage firm, including owners and officers and legal classification" class="homesectionimg imgsize1" src="/Content/Images/BrokerCheck/briefcase-01.png"/></div>
+</div>
+<div class="summarysectionrightpanel">
+<!-- Firm Profile -->
+<div class="summaryheadertext">
+<span>
+            This firm was formed in Delaware on 11/07/2007.
+        </span>
+<span>
+            This firm is classified as a Limited Liability Company.
+        </span>
+</div>
+<div class="subsectiondivider"></div>
+<div class="">
+<div class="firmprofileheader summarytableheader hidden-xs">
+<div class="firmprofilefirstcolumn">
+<div class="FirmHeaderColor">Main Office Location</div>
+</div>
+<div class="firmprofilesecondcolumn">
+<div class="FirmHeaderColor">
+                Mailing Address
+            </div>
+</div>
+<div class="firmprofilethirdcolumn">
+<div class="FirmHeaderColor">
+                Business Telephone Number
+            </div>
+</div>
+</div>
+<div class="bcrow FirmNestedListItemColor" style="padding:0">
+<div class="firmprofilefirstcolumn">
+<div class="firmprofileheader summarytableheader visible-xs "><div class="firmprofilecell">Main Office Location</div></div>
+<div class="firmprofilecell">135 E 57TH STREET<br/>23RD FLOOR<br/>NEW YORK, NY  10022</div>
+</div>
+<div class="firmprofilesecondcolumn">
+<div class="firmprofileheader summarytableheader visible-xs "><div class="firmprofilecell">Mailing Address</div></div>
+<div class="firmprofilecell">135 E 57TH STREET<br/>23RD FLOOR<br/>NEW YORK, NY  10022</div>
+</div>
+<div class="firmprofilethirdcolumn">
+<div class="firmprofileheader summarytableheader visible-xs "><div class="firmprofilecell">Business Telephone Number</div></div>
+<div class="firmprofilecell">212-804-7104 </div>
+</div>
+</div>
+</div>
+<div class="subsectiondivider"></div>
+<div>
+
+        Its fiscal year ends in December.
+    </div>
+<div>
+
+        Regulated by the FINRA New York district office.
+    </div>
+<div class="subsectiondivider"></div>
+<div class="bcrow FirmHeaderColor">
+<div class="summarytableheader">Direct Owners and Executive Officers</div>
+</div>
+<div>
+<div class="bcrow FirmNestedListItemColor">
+<div class="Padding15">
+<span>FAIRFIELD INVESTMENTS LLC</span>
+<span> - 47.5% OWNER</span>
+</div>
+</div>
+<div class="bcrow FirmNestedListItemColor">
+<div class="Padding15">
+<span>RICE, ROBERT ERIC</span>
+<span> - 47.5% OWNER PARTNER/MEMBER/CCO</span>
+</div>
+</div>
+<div class="bcrow FirmNestedListItemColor">
+<div class="Padding15">
+<span>RICE PARTNERS, LLC</span>
+<span> - 5% OWNER</span>
+</div>
+</div>
+<div class="bcrow FirmNestedListItemColor">
+<div class="Padding15">
+<span>GETTENBERG, JASON SCOTT</span>
+<span class="text-nowrap alink">
+<a href="/Individual/Summary/4427007" target="_blank"> (CRD# 4427007)</a>
+</span>
+<span> - FINOP</span>
+</div>
+</div>
+<div class="bcrow FirmNestedListItemColor">
+<div class="Padding15">
+<span>PEET, JAMES WILLIAM</span>
+<span class="text-nowrap alink">
+<a href="/Individual/Summary/4824139" target="_blank"> (CRD# 4824139)</a>
+</span>
+<span> - MANAGING PARTNER/MEMBER</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sectiondivider"></div>
+<div class="bcrow SummarySectionColor left-border" id="rgstnAndExamsTable">
+<div class="summarysectionleftpanel">
+<div class="imgleft-xs"><img alt="Qualifications including state licenses for the brokerage firm and what kinds of business it conducts" class="homesectionimg imgsize1" src="/Content/Images/BrokerCheck/certified-01.png"/></div>
+</div>
+<div class="summarysectionrightpanel">
+<!--Operations-->
+<div>
+<div>
+<div class="summaryheadertext">Firm Operations:  </div>
+<br/>
+<div class="NoPadding">
+<div>
+<div class="facircle" style="font-size:0.5em;vertical-align: middle"></div>
+
+                        This firm conducts 2 
+types of businesses.
+                </div>
+<div>
+<div class="facircle" style="font-size:0.5em;vertical-align: middle"></div>
+
+This firm is affiliated with financial or investment institutions.
+                   
+                </div>
+<div>
+<div class="facircle" style="font-size:0.5em;vertical-align: middle"></div>
+
+This firm does not have referral or financial arrangements with other brokers or dealers.
+                    
+                </div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+<!-- Registration-->
+<div>
+<table style="width: 100%; padding: 0px; border-spacing: 0px;">
+<tr>
+<td class="SpacerCell" colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">
+<table style="width: 100%; padding: 0px; border-spacing: 0px;">
+<tr>
+<td>
+<b>This firm is registered with: </b>
+<br/>
+<table style="padding: 0px; border-spacing: 0px;width:100%">
+<tr>
+<td colspan="2">
+
+                                                
+                                                the SEC
+
+                                            </td>
+</tr>
+<tr>
+<td colspan="2">
+1 Self-Regulatory Org
+
+                                            </td>
+</tr>
+<tr>
+<td colspan="2">
+14 U.S. states and territories
+                                                </td>
+</tr>
+<tr>
+<td class="PaddingLeft15"></td>
+<td>
+<div class="row">
+<div class="hidden-xs">
+<div class="statelistcol">
+<ul style="list-style:none">
+<li> California </li>
+<li> Colorado </li>
+<li> Connecticut </li>
+<li> District of  Columbia </li>
+<li> Florida </li>
+</ul>
+</div>
+<div class="statelistcol">
+<ul style="list-style:none">
+<li> Illinois </li>
+<li> Louisiana </li>
+<li> Maryland </li>
+<li> Massachusetts </li>
+<li> Nevada </li>
+</ul>
+</div>
+<div class="statelistcol">
+<ul style="list-style:none">
+<li> New York </li>
+<li> Pennsylvania </li>
+<li> Texas </li>
+<li> Virginia </li>
+</ul>
+</div>
+</div>
+<div class="visible-xs">
+<div class="statelistcol">
+<ul style="list-style:none">
+<li> California </li>
+<li> Colorado </li>
+<li> Connecticut </li>
+<li> District of  Columbia </li>
+<li> Florida </li>
+<li> Illinois </li>
+<li> Louisiana </li>
+</ul>
+</div>
+<div class="statelistcol">
+<ul style="list-style:none">
+<li> Maryland </li>
+<li> Massachusetts </li>
+<li> Nevada </li>
+<li> New York </li>
+<li> Pennsylvania </li>
+<li> Texas </li>
+<li> Virginia </li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!--Legacy Firm-->
+<div class="sectiondivider"></div>
+<div class="Padding15">
+<div class="bcrow SummarySectionColor">
+<div class="Padding15">
+<div class="summaryaddtionsectiontextheader">Additional Information</div>
+<div class="subsectiondivider"></div>
+<div>
+<p>
+                    The content of this summary, and the available detailed report, is governed by FINRA Rule 8312, and is primarily based on information filed on <a href="http://www.finra.org/crd/forms" target="_blank">uniform registration forms</a>.  Rule 8312, amendments to the rule and notices related to U.S. Securities and Exchange Commission approval orders, can be viewed  <a href="http://www.finra.org/finramanual/rules/r8312" target="_blank">here</a>.
+                </p>
+<p>
+                    State regulators are governed by their public records laws (not FINRA Rule 8312), and may provide information not in BrokerCheck, including information no longer required to be reported or updated on uniform registration forms due, for example, to its age or final disposition. You may <a href="http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/P455414" target="_blank">contact your state regulator</a> to request this additional information.
+                </p>
+<p>
+                    For more information about how to check on an investment professional, visit <a href="http://www.saveandinvest.org/ProtectYourMoney/AskAndCheck/P124314" target="_blank">SaveAndInvest.org</a>.
+                </p>
+</div>
+</div>
+</div>
+<div class="sectiondivider"></div>
+<div class="hidden-print">
+<a href="/Report/View/146999/2" target="_blank">
+<span class="btn btn-danger">Download Full Report PDF</span>
+</a>
+</div>
+</div>
+<div id="termsAndConditions"></div>
+<script language="javascript">
+        $(document).ready(function () {
+            showTermsAndConditions($(termsAndConditions),
+            {
+                termsAndConditionsUrl: "/Support/TermsAndConditions"
+            });
+
+            /* configure popovers  */
+            setUpPopover();
+        });
+       
+    </script>
+</div>
+</div>
+</div>
+</div>
+<div id="FINRA_footer">
+</div>
+<!-- ============================ -->
+<script type="text/javascript">
+        $(document).ready(function () {
+            var settings = {};
+            initPage(settings);
+        });
+    </script>
+<script language="Javascript" type="text/javascript">
+        S4PlugInURL = "https://esp-ext.finra.org/bc-lookup/rest";
+    </script>
+<link href="/Content/s4_autocomplete_plugin.css" rel="stylesheet"/>
+<script src="/Scripts/finra/s4_autocomplete_plugin.min.js"></script>
+<script src="/bundles/jqueryval?v=U_n6dk-_aSbm_I8QT7vbiac_NELn60Dl2_fY8_TRAhg1"></script>
+<script src="//www.finra.org/sites/all/themes/finra_theme/js/finrabrand/v1/finrabrand.js" type="text/javascript"></script>
+<script type="text/javascript">
+       
+            var logErrorUrl = "/Search/LogError";
+            
+       
+        try {
+            j191.jq(window).load(function () {   
+      
+                j191.jq(window).error(function (err) { logError(err); });
+
+                try {
+                        j191.jq('body').FINRAbrand({
+                            layout: "responsive",
+                            type: 'investor',
+                            footer: 'megafooter',
+                            highlight:6,
+                            subhighlight:1,
+                            version: "v1",
+                            onload: CallPluginOnloadScript
+                        });
+                    } 
+                catch (ex) {
+                   logError(ex, logErrorUrl);
+                }
+            });
+        } catch (ex) {
+            //we do not want logerror to go into infinite loop ( if j191.jq is not found)
+            //continue 
+        }
+       
+            var $ = jQuery.noConflict();
+
+            function RenderOnLoadScripts() {
+                
+            }
+        
+    </script>
+<script>
+             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+                { (i[r].q=i[r].q||[]).push(arguments);} ,i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g; m.parentNode.insertBefore(a, m);
+             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+             ga('create', 'UA-57309555-1', 'auto');
+             ga('send', 'pageview');
+        </script>
+</body>
+</html>

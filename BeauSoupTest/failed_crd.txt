@@ -1,0 +1,1 @@
+0000005: 'NoneType' object has no attribute 'parent'

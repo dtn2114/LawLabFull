@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06b4682e-fbd3-49a4-9b6e-1a36c5207176" name="Default" comment="" />
+    <ignored path="BeauSoupTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BeauSoupTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="selenium_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33498758" vertical-offset="165" max-vertical-offset="2655">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <element signature="e#538#2465#0" expanded="false" />
+                <element signature="e#2500#2854#0" expanded="false" />
+                <element signature="e#2881#2924#0" expanded="false" />
+                <element signature="e#2957#3147#0" expanded="false" />
+                <element signature="e#3199#7651#0" expanded="false" />
+                <element signature="e#7688#9827#0" expanded="false" />
+                <element signature="e#9863#11583#0" expanded="false" />
+                <element signature="e#11629#11767#0" expanded="false" />
+                <element signature="e#11795#11981#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/step0b_update_contain_event.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Testla2.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation" />
+        <option value="$PROJECT_DIR$/script_example.py" />
+        <option value="$PROJECT_DIR$/script.py" />
+        <option value="$PROJECT_DIR$/import_csv_mysql.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0527.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation.py" />
+        <option value="$PROJECT_DIR$/exec_compare.py" />
+        <option value="$PROJECT_DIR$/move_files.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0531.py" />
+        <option value="$PROJECT_DIR$/market_caps.py" />
+        <option value="$PROJECT_DIR$/exec_comp.py" />
+        <option value="$PROJECT_DIR$/exec_comp_test.py" />
+        <option value="$PROJECT_DIR$/exec_comp_wharton.py" />
+        <option value="$PROJECT_DIR$/tables_pass_compare.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0605.py" />
+        <option value="$PROJECT_DIR$/ticker_cik.py" />
+        <option value="$PROJECT_DIR$/insider_345.py" />
+        <option value="$PROJECT_DIR$/form345.py" />
+        <option value="$PROJECT_DIR$/non_derivative.py" />
+        <option value="$PROJECT_DIR$/derivative.py" />
+        <option value="$PROJECT_DIR$/345_8k.py" />
+        <option value="$PROJECT_DIR$/step0_extract_8k_event.py" />
+        <option value="$PROJECT_DIR$/add_newline.py" />
+        <option value="$PROJECT_DIR$/step-1_redownload_8k_files.py" />
+        <option value="$PROJECT_DIR$/step0b_update_contain_event.py" />
+        <option value="$PROJECT_DIR$/step1_gen_8k_form4.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0608.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0709.py" />
+        <option value="$PROJECT_DIR$/HiTae_Table.py" />
+        <option value="$PROJECT_DIR$/individual_cik.py" />
+        <option value="$PROJECT_DIR$/step2_gen_individual_data.py" />
+        <option value="$PROJECT_DIR$/step2_gen_individual_data_2.py" />
+        <option value="$PROJECT_DIR$/step3_update_form4_lag.py" />
+        <option value="$PROJECT_DIR$/Executive_Comp_Diff.py" />
+        <option value="$PROJECT_DIR$/download_column(s).py" />
+        <option value="$PROJECT_DIR$/insider_tr1.py" />
+        <option value="$PROJECT_DIR$/step-1_download_8k_files.py" />
+        <option value="$PROJECT_DIR$/download_weather.py" />
+        <option value="$PROJECT_DIR$/Executive_Comp_Diff_1.py" />
+        <option value="$PROJECT_DIR$/BeauSoupTest.py" />
+        <option value="$PROJECT_DIR$/pdf_scrape.py" />
+        <option value="$PROJECT_DIR$/13f_test.py" />
+        <option value="$PROJECT_DIR$/13d.py" />
+        <option value="$PROJECT_DIR$/1_summary_compensation_0720.py" />
+        <option value="$PROJECT_DIR$/Coin_Change.py" />
+        <option value="$PROJECT_DIR$/step2_scrape_limited_headless.py" />
+        <option value="$PROJECT_DIR$/unit_test.py" />
+        <option value="$PROJECT_DIR$/base_345.py" />
+        <option value="$PROJECT_DIR$/opportunit_search.py" />
+        <option value="$PROJECT_DIR$/selenium_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="38" />
+    <option name="width" value="1092" />
+    <option name="height" value="691" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeauSoupTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeauSoupTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeauSoupTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/step2_scrape_limited_headless.py" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;sys.builtin_module_names.append('sys')&#10;sys.builtin_module_names.append('time')" module-name="BeauSoupTest" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;sys.builtin_module_names.append('sys')&#10;sys.builtin_module_names.append('time')" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="BeauSoupTest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BeauSoupTest">
+    <configuration default="false" name="BeauSoupTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step2_scrape_limited_headless.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BeauSoupTest" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.BeauSoupTest" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.BeauSoupTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06b4682e-fbd3-49a4-9b6e-1a36c5207176" name="Default" comment="" />
+      <created>1428535502018</created>
+      <option name="number" value="Default" />
+      <updated>1428535502018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="38" width="1092" height="691" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28046745" sideWeight="0.499561" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32387313" sideWeight="0.499561" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24929972" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2054155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27121463" sideWeight="0.499561" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37298092" sideWeight="0.500439" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39938557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2904762" sideWeight="0.499561" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/git/crown-website" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="60" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/selenium_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2655">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#538#2465#0" expanded="false" />
+            <element signature="e#2500#2854#0" expanded="false" />
+            <element signature="e#2881#2924#0" expanded="false" />
+            <element signature="e#2957#3147#0" expanded="false" />
+            <element signature="e#3199#7651#0" expanded="false" />
+            <element signature="e#7688#9827#0" expanded="false" />
+            <element signature="e#9863#11583#0" expanded="false" />
+            <element signature="e#11629#11767#0" expanded="false" />
+            <element signature="e#11795#11981#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="691" max-vertical-offset="1155">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/A_School_Work/Python/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import_csv_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6359102" vertical-offset="420" max-vertical-offset="1230">
+          <caret line="49" column="63" selection-start-line="48" selection-start-column="4" selection-end-line="49" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market_caps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46153846" vertical-offset="15" max-vertical-offset="1725">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tables_pass_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1538461" vertical-offset="15" max-vertical-offset="2100">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_summary_compensation_0605.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4670" max-vertical-offset="7290">
+          <caret line="1082" column="65" selection-start-line="1082" selection-start-column="65" selection-end-line="1082" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/non_derivative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7191011" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/derivative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65375304" vertical-offset="75" max-vertical-offset="1875">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_summary_compensation_0608.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="4995">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HiTae_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95535713" vertical-offset="3562" max-vertical-offset="4185">
+          <caret line="268" column="104" selection-start-line="268" selection-start-column="104" selection-end-line="268" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step2_gen_individual_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="854" max-vertical-offset="1740">
+          <caret line="64" column="81" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exec_comp_wharton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53125" vertical-offset="90" max-vertical-offset="1950">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_column(s).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1065">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding>
+            <element signature="e#39#76#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1_gen_8k_form4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.8543897" vertical-offset="810" max-vertical-offset="2820">
+          <caret line="178" column="55" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insider_tr1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51391864" vertical-offset="600" max-vertical-offset="2715">
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step2_gen_individual_data_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="1725">
+          <caret line="106" column="42" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step3_update_form4_lag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68958336" vertical-offset="134" max-vertical-offset="690">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10440835" vertical-offset="0" max-vertical-offset="990">
+          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Executive_Comp_Diff_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18764846" vertical-offset="926" max-vertical-offset="1530">
+          <caret line="69" column="87" selection-start-line="69" selection-start-column="87" selection-end-line="69" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticker_cik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5961995" vertical-offset="881" max-vertical-offset="1560">
+          <caret line="46" column="19" selection-start-line="45" selection-start-column="12" selection-end-line="46" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/global_setting_parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7007127" vertical-offset="1979" max-vertical-offset="2400">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parse_master_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0740743" vertical-offset="1549" max-vertical-offset="18585">
+          <caret line="116" column="25" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
+          <folding>
+            <element signature="e#27#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdf_scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27419356" vertical-offset="61" max-vertical-offset="495">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/individual_cik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.186636" vertical-offset="270" max-vertical-offset="3240">
+          <caret line="197" column="26" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="26" />
+          <folding>
+            <element signature="e#18#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/parse_schedules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14460">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/parse_DRP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06912442" vertical-offset="0" max-vertical-offset="3885">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/parsing_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07125891" vertical-offset="0" max-vertical-offset="7425">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/iapd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06912442" vertical-offset="0" max-vertical-offset="3225">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4054054" vertical-offset="30" max-vertical-offset="3870">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_automation/parse_master_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0022523" vertical-offset="3649" max-vertical-offset="24225">
+          <caret line="184" column="16" selection-start-line="184" selection-start-column="14" selection-end-line="184" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step-1_redownload_8k_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45824847" vertical-offset="60" max-vertical-offset="630">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeauSoupTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1736111" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coin_Change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5102041" vertical-offset="0" max-vertical-offset="588">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3522538" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step0_extract_8k_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1020">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_summary_compensation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6243522" vertical-offset="1534" max-vertical-offset="3285">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="e#326#815#0" expanded="false" />
+            <element signature="e#1037#1187#0" expanded="false" />
+            <element signature="e#1218#1327#0" expanded="false" />
+            <element signature="e#1372#1717#0" expanded="false" />
+            <element signature="e#1748#4433#0" expanded="false" />
+            <element signature="e#4465#4632#0" expanded="false" />
+            <element signature="e#4663#4907#0" expanded="false" />
+            <element signature="e#4933#5553#0" expanded="false" />
+            <element signature="e#5599#6507#0" expanded="false" />
+            <element signature="e#6538#6623#0" expanded="false" />
+            <element signature="e#6651#6745#0" expanded="false" />
+            <element signature="e#6773#7006#0" expanded="false" />
+            <element signature="e#7030#7115#0" expanded="false" />
+            <element signature="e#7152#7417#0" expanded="false" />
+            <element signature="e#7452#7740#0" expanded="false" />
+            <element signature="e#7773#7887#0" expanded="false" />
+            <element signature="e#7918#8037#0" expanded="false" />
+            <element signature="e#8071#8315#0" expanded="false" />
+            <element signature="e#8345#8411#0" expanded="false" />
+            <element signature="e#8487#10099#0" expanded="false" />
+            <element signature="e#10139#10446#0" expanded="false" />
+            <element signature="e#10523#11890#0" expanded="false" />
+            <element signature="e#11919#12501#0" expanded="false" />
+            <element signature="e#12529#13550#0" expanded="false" />
+            <element signature="e#13572#13660#0" expanded="false" />
+            <element signature="e#13706#13844#0" expanded="false" />
+            <element signature="e#13905#14617#0" expanded="false" />
+            <element signature="e#14648#17079#0" expanded="false" />
+            <element signature="e#17132#18009#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step0b_update_contain_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44850498" vertical-offset="405" max-vertical-offset="1620">
+          <caret line="47" column="65" selection-start-line="47" selection-start-column="65" selection-end-line="47" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50830567" vertical-offset="279" max-vertical-offset="1545">
+          <caret line="39" column="94" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="94" />
+          <folding>
+            <element signature="e#40#49#0" expanded="false" />
+            <element signature="e#3981#5105#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_summary_compensation_0720.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6013" max-vertical-offset="6615">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#946#1832#0" expanded="false" />
+            <element signature="e#1867#2640#0" expanded="false" />
+            <element signature="e#2679#2834#0" expanded="false" />
+            <element signature="e#2873#2926#0" expanded="false" />
+            <element signature="e#2962#3033#0" expanded="false" />
+            <element signature="e#3062#3191#0" expanded="false" />
+            <element signature="e#3230#3412#0" expanded="false" />
+            <element signature="e#3440#3737#0" expanded="false" />
+            <element signature="e#3779#4910#0" expanded="false" />
+            <element signature="e#5322#7077#0" expanded="false" />
+            <element signature="e#7108#10003#0" expanded="false" />
+            <element signature="e#10035#10202#0" expanded="false" />
+            <element signature="e#10233#10477#0" expanded="false" />
+            <element signature="e#10505#10653#0" expanded="false" />
+            <element signature="e#10679#11422#0" expanded="false" />
+            <element signature="e#11468#12376#0" expanded="false" />
+            <element signature="e#12407#12560#0" expanded="false" />
+            <element signature="e#12588#12682#0" expanded="false" />
+            <element signature="e#12716#12783#0" expanded="false" />
+            <element signature="e#12811#13137#0" expanded="false" />
+            <element signature="e#13161#13222#0" expanded="false" />
+            <element signature="e#13246#13436#0" expanded="false" />
+            <element signature="e#13473#13743#0" expanded="false" />
+            <element signature="e#13845#14227#0" expanded="false" />
+            <element signature="e#14266#14452#0" expanded="false" />
+            <element signature="e#14487#14775#0" expanded="false" />
+            <element signature="e#14808#15315#0" expanded="false" />
+            <element signature="e#15346#15465#0" expanded="false" />
+            <element signature="e#15499#16183#0" expanded="false" />
+            <element signature="e#16218#16741#0" expanded="false" />
+            <element signature="e#16817#18483#0" expanded="false" />
+            <element signature="e#18523#18845#0" expanded="false" />
+            <element signature="e#18883#19565#0" expanded="false" />
+            <element signature="e#19642#22379#0" expanded="false" />
+            <element signature="e#22408#22478#0" expanded="false" />
+            <element signature="e#22506#22677#0" expanded="false" />
+            <element signature="e#22707#22774#0" expanded="false" />
+            <element signature="e#22803#23387#0" expanded="false" />
+            <element signature="e#23415#23515#0" expanded="false" />
+            <element signature="e#23543#25203#0" expanded="false" />
+            <element signature="e#25237#25347#0" expanded="false" />
+            <element signature="e#25369#25457#0" expanded="false" />
+            <element signature="e#25503#25641#0" expanded="false" />
+            <element signature="e#25702#26452#0" expanded="false" />
+            <element signature="e#26479#26615#0" expanded="false" />
+            <element signature="e#26646#30664#0" expanded="false" />
+            <element signature="e#33412#37682#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step2_scrape_limited_headless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="3525">
+          <caret line="336" column="107" selection-start-line="336" selection-start-column="107" selection-end-line="336" selection-end-column="107" />
+          <folding>
+            <element signature="e#57#87#0" expanded="false" />
+            <element signature="e#2878#3232#0" expanded="false" />
+            <element signature="e#3259#3304#0" expanded="false" />
+            <element signature="e#3370#3560#0" expanded="false" />
+            <element signature="e#3685#8142#0" expanded="false" />
+            <element signature="e#8250#10409#0" expanded="false" />
+            <element signature="e#10513#12233#0" expanded="false" />
+            <element signature="e#12305#12443#0" expanded="false" />
+            <element signature="e#12568#12754#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1950">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insider_345.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="1890">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step-1_download_8k_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_345.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0882353" vertical-offset="2916" max-vertical-offset="3510">
+          <caret line="224" column="36" selection-start-line="224" selection-start-column="36" selection-end-line="224" selection-end-column="36" />
+          <folding>
+            <element signature="e#18#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33498758" vertical-offset="165" max-vertical-offset="2655">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="e#538#2465#0" expanded="false" />
+            <element signature="e#2500#2854#0" expanded="false" />
+            <element signature="e#2881#2924#0" expanded="false" />
+            <element signature="e#2957#3147#0" expanded="false" />
+            <element signature="e#3199#7651#0" expanded="false" />
+            <element signature="e#7688#9827#0" expanded="false" />
+            <element signature="e#9863#11583#0" expanded="false" />
+            <element signature="e#11629#11767#0" expanded="false" />
+            <element signature="e#11795#11981#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
